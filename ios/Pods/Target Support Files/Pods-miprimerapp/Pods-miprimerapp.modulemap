@@ -1,0 +1,6 @@
+module Pods_miprimerapp {
+  umbrella header "Pods-miprimerapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
